@@ -1,0 +1,20 @@
+{
+    "receptionists": [
+        "Dario",
+        "Steve",
+        "Goeffrey",
+        "Nury",
+        "Jacqueline",
+        "Eddie"
+    ],
+    "supervisors": [
+        "Ana Rose",
+        "Michelle",
+        "Yousra"
+    ],
+    "on_call_receptionists": [
+        "Zynk",
+        "Spark",
+        "Nova"
+    ]
+}
